@@ -61,9 +61,9 @@ class ViewController: UIViewController, ARSKViewDelegate {
 		labelNode.fontSize = 16
         labelNode.horizontalAlignmentMode = .center
         labelNode.verticalAlignmentMode = .center
-		let moveLeftRight: SKAction = SKAction.moveBy(x: 10, y: 10, duration: 0.04)
+		let moveLeftRight: SKAction = SKAction.moveBy(x: 10, y: 10, duration: 0.02)
 		moveLeftRight.timingMode = .easeOut
-		let moveUpDown: SKAction = SKAction.moveBy(x: -10, y: -10, duration: 0.04)
+		let moveUpDown: SKAction = SKAction.moveBy(x: -10, y: -10, duration: 0.02)
 		moveUpDown.timingMode = .easeOut
 		let seq: SKAction = SKAction.sequence([moveLeftRight, moveUpDown])
 		let repeatForever: SKAction = SKAction.repeatForever(seq)
