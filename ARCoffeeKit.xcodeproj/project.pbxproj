@@ -280,7 +280,7 @@
 				DEVELOPMENT_TEAM = HYPCVH7NE6;
 				INFOPLIST_FILE = ARCoffeeKit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.JD.ARCoffeeKit;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JacobDobson.ARCoffeeKit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -294,7 +294,7 @@
 				DEVELOPMENT_TEAM = HYPCVH7NE6;
 				INFOPLIST_FILE = ARCoffeeKit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.JD.ARCoffeeKit;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JacobDobson.ARCoffeeKit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
